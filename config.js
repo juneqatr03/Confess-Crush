@@ -10,8 +10,8 @@ const CONFIG = {
     question: 'Ê hôm nay giáng sinh, m muốn quà gì ko',
     btnReply: 'Gửi cho t <3',
     reply: 'OK, bữa sau đi học off t gửi cho',
-    mess: 'Giáng sinh cầu mong cho m  fa hoài luôn',
-    messDesc: 'Bữa sau thi học kì nhớ chỉ bài t nha',
+    mess: 'Nhân dịp Noel cầu mong cho m fa hoài luôn ((((:',
+    messDesc: 'Bữa sau thi học kì nhớ chỉ bài t nha, à khi nào chán thì vô cày lượt nghe cho t với :> tks u',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://wesingapp.com/user/609c9e83222e348e3547/song/bMvMrNCbpGFwvCWu-CuHn?lang=vi&g_f=personal&from_page=frommv' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://wesingapp.com/user/609c9e83222e348e3547?lang=vi&from_page=fromugc' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
