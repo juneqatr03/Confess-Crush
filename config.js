@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "From SF to SF",
+    titleWeb: "Trang web làm một vài trò khùng điên dành cho cái thằng ko normal :))",
     introTitle: 'Ê đồ khùng khoa',
     introDesc: `Bấm vô đây`,
     btnIntro: '^^HiHi^^',
