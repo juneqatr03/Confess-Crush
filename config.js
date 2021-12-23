@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'không nha :3',
     question: 'Ê hôm nay giáng sinh, m muốn quà gì ko',
     btnReply: 'Gửi cho t <3',
-    reply: 'OK, bữa sau đi học off t gửi cho',
+    reply: '',
     mess: 'Nhân dịp Noel cầu mong cho m fa hoài luôn ((((:',
     messDesc: 'Bữa sau thi học kì nhớ chỉ bài t nha, à khi nào chán thì vô cày lượt nghe cho t với :> tks u',
     btnAccept: 'Okiiiii lun <3',
